@@ -1,4 +1,4 @@
-# PL Graph from Image (Fixed RGB->PL Model)
+
 ## Install
 ```bash
 pip install -r requirements.txt
